@@ -16,4 +16,10 @@
       ![Org_School_Summary](https://user-images.githubusercontent.com/106560752/178812777-e7ad5ec0-f380-4d9d-9264-21dd6b73c1cc.png)
       Here is the adjusted data
       ![Adj_School_sum](https://user-images.githubusercontent.com/106560752/178812838-1ad24836-752a-407f-94e2-568bedd95c3e.png)
-
+  * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+    * The images above can answer this questions as well. Since THS grades have improved it allowed THS move into the top 5 schools
+  * How does replacing the ninth-grade scores affect the following:
+    * Math and reading scores by grade - Math and Reading scores have done up in 9th grade since we removed the ones from THS.
+    * Scores by school spending - School spending has not changed in relation to the impact of corrupted data in THS.
+    * Scores by school size - School size does not change since we did not remove the student count
+    * Scores by school type - THS is in the Charter School category and the score difference are decimal in change. An impact not worth recognizing.
